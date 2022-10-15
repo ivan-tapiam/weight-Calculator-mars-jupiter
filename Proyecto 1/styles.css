@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    background-image: url("/Media/imagen1.png");
+    background-size:200px 200px;
+    background-repeat: no-repeat;
+    background-position:top;
+}
